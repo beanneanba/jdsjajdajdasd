@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="chet">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cheat\main.cpp">
+      <Filter>chet</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="memory.h">
+      <Filter>chet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\source\repos\KeyAuth-CPP-Example\skStr.h">
+      <Filter>chet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\source\repos\KeyAuth-CPP-Example\auth.hpp">
+      <Filter>chet</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\source\repos\KeyAuth-CPP-Example\libcurl.lib">
+      <Filter>chet</Filter>
+    </Library>
+    <Library Include="..\..\source\repos\KeyAuth-CPP-Example\library_x64.lib">
+      <Filter>chet</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

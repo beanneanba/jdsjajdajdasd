@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\haden\Desktop\pro-bhop-master\cheat\main.cpp(24,62): error C2597: illegal reference to non-static member 'KeyAuth::api::url'
+C:\Users\haden\source\repos\KeyAuth-CPP-Example\auth.hpp(17,47): message : see declaration of 'KeyAuth::api::url'
+C:\Users\haden\Desktop\pro-bhop-master\cheat\main.cpp(270,2): error C2059: syntax error: 'while'
+C:\Users\haden\Desktop\pro-bhop-master\cheat\main.cpp(271,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\haden\Desktop\pro-bhop-master\cheat\main.cpp(295,2): error C2059: syntax error: 'return'
